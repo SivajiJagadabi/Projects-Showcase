@@ -1,0 +1,11 @@
+.header-container {
+  background-color: #f1f5f9;
+  height: 80px;
+  padding: 20px;
+}
+
+.web-site-logo {
+  width: 100px;
+  height: 40px;
+  margin-left: 50px;
+}
